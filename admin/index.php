@@ -31,7 +31,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                   }else{
                     $pageno = 1;
                   }
-                  $noOffrecs = 1;
+                  $noOffrecs = 5;
                   $offset   = ($pageno - 1) * $noOffrecs;
                   
 
